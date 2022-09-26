@@ -47,6 +47,7 @@ class _FlutterStepsState extends State<FlutterSteps> {
     );
   }
 
+  //This will be your screens
   List<Step> getSteps() => [
         Step(
             title: const Text('Sender'),
